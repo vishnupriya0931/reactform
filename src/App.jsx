@@ -1,5 +1,5 @@
 import React , { use, useEffect, useState } from "react";
-import Employees from "./components/employees";
+import Employees from "./components/Employees";
 import EmploueUpsert from "./components/EmploueUpsert";
 
 export default function App() {
